@@ -1,1 +1,13 @@
-//
+// SPDX-License-Identifier: MIT
+// Disclaimer : https://github.com/SNTZL-ERC20/SNTZL/blob/main/disclaimer
+pragma solidity ^0.8.9;
+
+import "@openzeppelin/contracts@4.8.2/token/ERC20/ERC20.sol";
+import "@openzeppelin/contracts@4.8.2/token/ERC20/extensions/ERC20Burnable.sol";
+import "@openzeppelin/contracts@4.8.2/token/ERC20/extensions/draft-ERC20Permit.sol";
+
+contract SchnitzelCoin is ERC20, ERC20Burnable, ERC20Permit {
+    constructor() ERC20("Schnitzel Coin", "SNTZL") ERC20Permit("Schnitzel Coin") {
+        _mint(msg.sender, 100000000 * 10 ** decimals());
+    }
+}

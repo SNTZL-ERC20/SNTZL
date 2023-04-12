@@ -1,5 +1,5 @@
-// SPDX-License-Identifier: MIT
-// Disclaimer : https://github.com/SNTZL-ERC20/SNTZL/blob/main/disclaimer
+/ SPDX-License-Identifier: MIT
+// Disclaimer https://github.com/SNTZL-ERC20/SNTZL/blob/main/disclaimer
 pragma solidity ^0.8.9;
 
 import "@openzeppelin/contracts@4.8.2/token/ERC20/ERC20.sol";

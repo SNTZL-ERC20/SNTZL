@@ -1,0 +1,9 @@
+chain : ERC20
+contract address : 0xF34ca6B7Fe3D6B1c8635A6Bf2bD7bDD252f16426
+symbol : SNTZL
+decimals : 18
+burnable : YES
+mintable : NO 
+  (100.000.000 tokens minted on deployment of contract, no further minting possible)
+permit : YES 
+  (compatibility with future gas-free transactions on decentralised exchanges)

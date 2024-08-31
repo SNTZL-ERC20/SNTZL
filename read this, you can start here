@@ -1,0 +1,28 @@
+SCHNITZEL COIN (SNTZL)
+contract number : 0xF34ca6B7Fe3D6B1c8635A6Bf2bD7bDD252f16426 
+
+ERC20 token
+Circulating supply capped at 100.000.000 coins
+The first coin is listed at $1, last one at $100
+Except for the last SNTZL-coin (listed at 100$), any other unsold coins can be burned, deflating the circulating supply, creating upward price pressures
+Minting extra coins in not possible by contract
+Available through a public-coin-listing, access to SNTZL-coin is fully decentralised + redundant through currently 2 DEX protocols: 
+The 1inch Limit Order Protocol & the Uniswap V3 Liquidity Pool Protocol
+All of the tokens are split between these 2 DEX protocols for distribution (no hidden wallets or honeypots)
+This also increases the redundancy of the distribution, if one isn't working properly, then those coins can be made available on the other protocol
+If any CEX wants to list SNTZL, they will have to buy SNTZL at market price on a DEX (if they hold any reserves at all... lol)
+Beyond $100, all of the coins will be distributed & the price will be fully determined by the free market
+
+
+SCHNITZEL COIN (SNTZL)
+contract number : 0xF34ca6B7Fe3D6B1c8635A6Bf2bD7bDD252f16426 
+
+<<< 1 INCH >>>
+Available through limit orders starting at $1.00
+
+<<< UNISWAP >>>
+Available through SNTZL/USDT liquidity pool, starting at $1.00
+(anyone can start up their own pair)
+
+Anyone can do arbitrage trading in between the UNI liquidity pools and the 1INCH limit orders
+Any market price differences should be keep to a minimum by this
